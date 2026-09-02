@@ -37,7 +37,16 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "genre",
+          "tag": "rap"
+        },
+        {
+          "category": "themes",
+          "tag": "blackness"
+        }
+      ],
       "uuid": "e4aafd36-6bc1-4fc6-83e9-95c3a20715ec"
     },
     {
