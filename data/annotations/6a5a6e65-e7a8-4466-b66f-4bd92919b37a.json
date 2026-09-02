@@ -1583,7 +1583,20 @@
           "text": "\nDe mis ancestros y del sonido de mi tambor\nSoy negra de nacimiento cantadora de corazón\nPorque vive en mí la raza es que negra negra soy yo\n¿Por qué me dices morena si ese no es mi color? \nYo tengo una raza negra y de ella orgullosa estoy\nAy yo tengo una raza pura guerreras y compasión\nQue levantaron pie de lucha y defendieron nuestro color\nYo tengo una raza negra y de ella orgullosa estoy \nMi raza es mi color y de ella orgullosa estoy"
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "genre",
+          "tag": "bomba"
+        },
+        {
+          "category": "themes",
+          "tag": "women"
+        },
+        {
+          "category": "themes",
+          "tag": "blackness"
+        }
+      ],
       "uuid": "958a4bac-a461-4e41-b299-7fe1c9d262c5"
     },
     {
