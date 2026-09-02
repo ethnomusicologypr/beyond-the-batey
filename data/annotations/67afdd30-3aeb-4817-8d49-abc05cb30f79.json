@@ -2216,7 +2216,12 @@
           "text": "Cortaron a Elena y se la llevaron pa' la hospital"
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "genre",
+          "tag": "plena"
+        }
+      ],
       "uuid": "2ffe9f2d-6b10-402b-b800-32f9b3f80f06"
     },
     {
