@@ -435,7 +435,16 @@
           "text": "Negra está triste está llorando su amor está llorando a su negro su negro que tanto amó."
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "themes",
+          "tag": "blackness"
+        },
+        {
+          "category": "genre",
+          "tag": "bomba"
+        }
+      ],
       "uuid": "dcf4945c-c891-4c14-91d2-c1023b0caaf3"
     },
     {
