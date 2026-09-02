@@ -487,7 +487,20 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "genre",
+          "tag": "bomba"
+        },
+        {
+          "category": "delegations",
+          "tag": "norte"
+        },
+        {
+          "category": "themes",
+          "tag": "cimarons"
+        }
+      ],
       "uuid": "8de5eac6-05cc-4968-a2c7-9361e31f3909"
     },
     {
