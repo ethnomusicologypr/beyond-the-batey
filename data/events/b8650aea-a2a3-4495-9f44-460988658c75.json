@@ -1,0 +1,33 @@
+{
+  "audiovisual_files": {
+    "cbb2d58c-c7ec-47a0-88e4-9dc5dcd36a4b": {
+      "label": "EDT 2026",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://www.youtube.com/watch?v=z9YxvdszJjw",
+      "duration": 0,
+      "caption_set": [],
+      "set_sort": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "label": "EDT 2026",
+  "av_file_order": [
+    "cbb2d58c-c7ec-47a0-88e4-9dc5dcd36a4b"
+  ],
+  "created_at": "2026-09-02T18:20:37.605Z",
+  "created_by": "ethnomusicologypr",
+  "updated_at": "2026-09-02T18:20:37.605Z",
+  "updated_by": "ethnomusicologypr"
+}
