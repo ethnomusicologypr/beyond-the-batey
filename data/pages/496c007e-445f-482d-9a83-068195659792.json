@@ -4,11 +4,12 @@
   "created_by": "ethnomusicologypr",
   "title": "Resistimos",
   "slug": "resistimos",
-  "updated_at": "2026-09-02T19:04:38.617Z",
+  "updated_at": "2026-09-02T19:07:50.596Z",
   "updated_by": "ethnomusicologypr",
   "autogenerate": {
     "enabled": true,
     "type": "event",
     "type_id": "f7eed79a-39f0-40ff-90e1-fe1bb41e2e96"
-  }
+  },
+  "parent": "249e6411-5c30-4739-8fdc-7b674cf54d93"
 }
