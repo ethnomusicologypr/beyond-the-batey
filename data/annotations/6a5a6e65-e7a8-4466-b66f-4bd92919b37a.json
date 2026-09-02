@@ -437,7 +437,16 @@
           "text": "Cuando suenan los tambores "
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "genre",
+          "tag": "bomba"
+        },
+        {
+          "category": "themes",
+          "tag": "women"
+        }
+      ],
       "uuid": "76034bd0-80f9-47c9-8e2a-546ded6f94a2"
     },
     {
