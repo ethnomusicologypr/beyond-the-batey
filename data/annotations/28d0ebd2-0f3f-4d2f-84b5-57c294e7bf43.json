@@ -1,1 +1,678 @@
-{"annotations":[],"set":"Default","event_id":"1f9e07ad-92df-4635-9ccf-6f42af03095b","source_id":"1dc434e7-8891-4db2-89aa-5d5be6fe37de"}
+{
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 359,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "“I Suena los tambores,” performed by Plenibom  \nVerse 1  \nThe drums sound at dawn  \nThe drums sound in towns in (unintelligible)  \nThe drums sound, we keep repainting  \nThe drums sound, African rhythms  \nVerse 2  \nThe drums sound, let’s go **[unintelligible]**, African rhythms  \nThe drums sound **[unintelligible]**  \nRain drums, drums of the sea  \nChorus  \nDrums, drums, drums, drums of the sea  \nVerse 3  \nUnited drums  \nFrom our culture, the one that defends  \nChorus  \nDrums, drums, drums, drums, drums of the sea  \nVerse 4  \nDrums, wooden drums  \nDrums, drums of **[unintelligible]**  \nChorus  \nDrums, drums, drums, drums, drums, drums, drums of the sea  \nVerse 5  \nThe drums sound, let’s go dance  \nRain drums  \nDrums of the sea  \nChorus  \nDrums, drums, drums, drums of the sea  \nVerse 6  \nDrums that sing  \nDrums that speak  \n**[unintelligible]**  \nChorus  \nDrums, drums, drums, drums, drums, drums of the sea  \nVerse 7  \nDrums that cry  \nDrums that suffer  \nWhen a man destroys his own history  \nChorus  \nDrums, drums, drums, drums of the sea  \nVerse 8  \nDrums that say, oh we must celebrate, oh brother man  \nOh, we must breathe  \nChorus  \nDrums, drums, drums, drums of the sea  \nVerse 9  \nDrums, wooden drums  \nDrums, drums of my **[unintelligible]**  \nChorus (2x)  \nDrums, drums, drums, drums of the sea"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "b702183b-6854-457c-a6eb-e76e8b4df59f"
+    },
+    {
+      "start_time": 360,
+      "end_time": 1080,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Transition between groups."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "daf225e3-cb55-4a2c-988e-72cc84370818"
+    },
+    {
+      "start_time": 1081,
+      "end_time": 1140,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Presenting the hoya mula rhythms. 'I am the elements' 'and your drum was perfect'"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "7ec3d9b7-818a-4159-98b4-a802dd73617d"
+    },
+    {
+      "start_time": 1192,
+      "end_time": 1320,
+      "annotation": [
+        {
+          "text": "“Yo canto” ",
+          "bold": true
+        },
+        {
+          "text": "- Delegacion del Oeste  "
+        }
+      ],
+      "tags": [],
+      "uuid": "da29526a-fc74-452f-8225-cffb85eb8839"
+    },
+    {
+      "start_time": 1320,
+      "end_time": 1433,
+      "annotation": [
+        {
+          "text": "“I am the elements” ",
+          "bold": true
+        },
+        {
+          "text": "- Delegación del Oeste "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Verse 1  "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "I am Earth, I am air, I am water, I am fire. "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "When I enter the batey, I am liberated. "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "(When I enter the batey, light of my  ancesters)  "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Coro (2x) "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "I am Earth, I am air, I am water, I am fire. "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "When I enter the batey, I am liberated. "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "verse 2  "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "I am river, I am mountain, I am sky, I am ***. "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "When I enter the batey, I am liberated. "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "verse 3  "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "I am water, I am congas, I am rain, I am ice.  "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "When I enter the batey, I flow with my ancestors."
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "verse 4 "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "I am Earth, I am sand, I am stones, I am soil. "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "When I enter the batey, I connect with my ancestors "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Verse 5  "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Soy fuego, soy ***, "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "When I enter the batey, the light of my ancestors."
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "verse 6  "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Soy aire, soy viento, soy brisa, soy cielo, "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Cuando entro el batey, estoy con mis ancestros. "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Verse 7  "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Soy rio, soy montaña, soy cielo, soy ***. "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Cuando entro el batey, con mis ancestros.  "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Verse 8  "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Soy tierra, soy aire, soy agua, soy fuego. "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Cuando entro el batey, yo me libero. "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Coro Final "
+        }
+      ],
+      "tags": [],
+      "uuid": "f55a5b27-ec5d-4a5c-974b-1298eccb6fcf"
+    },
+    {
+      "start_time": 1445,
+      "end_time": 1658,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Óigame Juan Nadal, your drum was perfect.  \nDelegación del Oeste  \nChorus  \nÓigame, Juan Nadal, your drum was perfect.  \nPlaying with Papo Ale and composing to a son.  \nVerses  \nFor more than 50 years, in Caguas your percussion, and for many bomberos you are the inspiration.  \nAnd your life changed, you returned to Puerto Rico, promoting your folklore.  \nMayagüez has remembered you because your legacy remained with (unintelligible).  \nWhen the bomba sounded you were the subidor, sharing your culture, marking its value.  \nPride of Mayagüez, pride of a nation. Master of my culture, echoing that drum.  \nAnd to the Mayagüez bomba, you were born in its heart, and today the new bomberos who sing this song…  \nAnd we bomberos say to you: your drum was perfect.  \nAnd for many bomberos: your drum was perfect.  \nYou played with all the greats: your drum was perfect.  \nYou were the best: your drum was perfect.  \nPride of my culture: your drum was perfect.  \nPride of a nation: your drum was perfect.  \nMayagüez has remembered you: your drum was perfect.  \nYour legacy remained: your drum was perfect.  \nAnd the new bombero: your drum was perfect.  \nWe sing you this song: your drum was perfect."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "375e8fbb-234b-44b1-ba6e-cdc1bde9244b"
+    },
+    {
+      "start_time": 1662,
+      "end_time": 1728,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "“Mírame bien a la cara” – Delegación del Oeste\nLook me straight in the face, look me in the face.\nLook me straight in the face, because I am from Mayagüez."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "77381dbb-db80-42bf-9a24-6f6bb1d06fce"
+    },
+    {
+      "start_time": 4020,
+      "end_time": 4080,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Eight delegations represent different regions, and bomberas and bomberos have come from everywhere for this historic moment."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "23f2b62f-4df1-4813-b3dd-b11691f9e245"
+    },
+    {
+      "start_time": 4020,
+      "end_time": 4080,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "“Se me rompió el tambor” – Delegación del Este  \nChorus  \nMy drum broke, oh what a shame, oh what pain. I’m looking for an artisan who will put their heart into it.\nVerses  \nI travel all around the island, and I play over there with Wilfredo Morales. The great Kichi turned into a werewolf, and now tell me what I’m supposed to do if my drum breaks.\nI asked Jesús Cepeda if he could help me in that situation. He told me to be patient and to put intention into it without desperation.\nSo I called Papo del Valle, and I also thought of Emmanuel Martínez, who might be able to solve this emergency.\nThen call Víctor Vélez or Rafael Trinidad Maurás. They don’t answer me, and I don’t want to imagine that I won’t be able to play it anymore… my drum is breaking.\nAt that drum gathering the problem was solved, because Alcadio Quiñones put his heart into it, and the drum will sound again."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "b55a7208-f655-4bba-b386-17e7f17e2cf9"
+    },
+    {
+      "start_time": 5760,
+      "end_time": 5820,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "“I am cimarrón,” Northern Delegation  \nStanding in resistance, I am cimarrón. Freedom or death, I am cimarrón!  \nStanding in resistance, I am cimarrón. Freedom or death, I am cimarrón!"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "8de5eac6-05cc-4968-a2c7-9361e31f3909"
+    },
+    {
+      "start_time": 6000,
+      "end_time": 6120,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Transition"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "9727776e-3d70-40ba-8c5e-251c2101258c"
+    },
+    {
+      "start_time": 6775,
+      "end_time": 6780,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Dale Golpe\""
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "750a5ba1-2778-4ef1-a470-842e886140f4"
+    },
+    {
+      "start_time": 8160,
+      "end_time": 8220,
+      "annotation": [
+        {
+          "text": "\"San Mateo de Cangrejos\" - ",
+          "bold": true
+        },
+        {
+          "text": "performed by the Delegation del Cangrejos. Composed by Rafael Maya Alvarez\nCoro\nCangrejos, San Mateo de Cangrejos. Cangrejos, San Mateo de Cangrejos. Cangrejos, San Mateo de Cangrejos\n\n"
+        }
+      ],
+      "tags": [],
+      "uuid": "010b580c-d59e-428f-8a92-f3977a8c4a1e"
+    },
+    {
+      "start_time": 9120,
+      "end_time": 9180,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Transition"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "fd8a915c-4bdc-4bbb-bbb5-1b32ffddb0c6"
+    },
+    {
+      "start_time": 9780,
+      "end_time": 9840,
+      "annotation": [
+        {
+          "text": "\"Suena los tambores\" performed by Plenibom"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Coro"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Suena"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Suena ya"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Suename los tambores"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Suena los tambores ritmos africanos"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Suena los tambores vamos a bailar"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Tambores del lluvia"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Tambores del mar"
+        }
+      ],
+      "tags": [],
+      "uuid": "65928f9e-d7fb-4387-b6a1-798a66fa5384"
+    },
+    {
+      "start_time": 10080,
+      "end_time": 10140,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Yo quiero cantar\""
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "4ae619dd-9e11-4795-8469-b4bdc34a2b43"
+    },
+    {
+      "start_time": 11220,
+      "end_time": 11370,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "“De Carolina” / “Mira, mira, mira tú ves” – Delegación de Carolina  \nPeople know that we’re from the streets.  \nPeople know that we’re from the streets.  \nPeople know that we’re from the streets.  \nWe are Carolina and we’re coming sharp.  \nWe are Carolina and we’re coming sharp.  \nWe are Carolina and we’re coming sharp.  \nWe are Carolina and we’re coming sharp.  \nWe are Carolina and we’re coming sharp.  \nWe are Carolina and we’re coming sharp.  \nCarolina, lina, lina.  \nCarolina, lina, lina.  \nWe are Carolina and we’re coming sharp.  \nWe are Carolina and we’re coming sharp.  \nWe are Carolina and we’re coming sharp.  \nCarolina has arrived now and we’re not going to stop.  \nWe are Carolina and we’re coming sharp.  \nWe are Carolina and we’re coming sharp.  \nWe are Carolina and we’re coming sharp.  \nWe are Carolina, Carolina, Carolina.\nChorus  \nLook, look, look, you see. Look, look, look, you see.  \nI brought bomba here for you, from Carolina to Mayagüez."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "ebab1435-0702-4e49-8fa4-7b54fbf28796"
+    }
+  ],
+  "set": "Default",
+  "event_id": "1f9e07ad-92df-4635-9ccf-6f42af03095b",
+  "source_id": "1dc434e7-8891-4db2-89aa-5d5be6fe37de"
+}
