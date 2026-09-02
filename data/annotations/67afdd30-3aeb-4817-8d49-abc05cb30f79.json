@@ -1416,7 +1416,12 @@
           "text": "Estoy buscando un árbol que me sombra"
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "genre",
+          "tag": "bomba"
+        }
+      ],
       "uuid": "540dcec7-d7d3-4e66-b515-535758687bf4"
     },
     {
