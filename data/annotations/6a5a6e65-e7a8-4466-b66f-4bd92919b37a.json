@@ -602,7 +602,24 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "genre",
+          "tag": "bomba"
+        },
+        {
+          "category": "themes",
+          "tag": "blackness"
+        },
+        {
+          "category": "themes",
+          "tag": "plantations"
+        },
+        {
+          "category": "themes",
+          "tag": "slavery"
+        }
+      ],
       "uuid": "28b8145a-f990-4491-932f-a7741019115a"
     },
     {
