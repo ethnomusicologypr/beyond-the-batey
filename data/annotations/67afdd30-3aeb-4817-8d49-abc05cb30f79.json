@@ -1196,7 +1196,12 @@
           "text": "\nA mis amigos yo quiero ver bailar la bomba de Maria Isabel\nPa' bailarla como es\nLandié lan lan deloyé\nAy un baile de bomba en casa de José y estan tocando Yuba en Francés"
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "genre",
+          "tag": "bomba"
+        }
+      ],
       "uuid": "334bdadf-2a10-4f50-95d3-e25c5b273b0a"
     },
     {
