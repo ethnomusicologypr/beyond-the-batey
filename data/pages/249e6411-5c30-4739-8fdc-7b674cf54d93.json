@@ -20,7 +20,8 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Zafra: Fusión Familia Cepeda (1983) – This filmed stage production, performed at the Centro de Bellas Artes, an early record of the Cepeda family’s artistry. It serves as a vital archive of Afro-Puerto Rican music and performance. It is significant for its featuring of Don Rafael Cepeda Atiles, Jesús Cepeda, and Petra Cepeda—all historically important figures in bomba and members of the legendary Familia Cepeda. "
+          "text": "Zafra: Fusión Familia Cepeda (1983) ",
+          "textSize": "heading-two"
         }
       ]
     },
@@ -28,7 +29,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": " It was reproduced at the Dr. Phillips Center in Kissimmee, Florida on February 14th, 2026 at 5pm and 7pm for an audience of around 200 attendees. It was funded in part by the New England Foundation for the Arts and with an Orlando Tourism grant. The restaged version was directed by Barbara Liz Ortiz Sanchez of La Escuela de Bomba y Plena Tata Cepeda. "
+          "text": "This filmed stage production, performed at the Centro de Bellas Artes, an early record of the Cepeda family’s artistry. It serves as a vital archive of Afro-Puerto Rican music and performance. It is significant for its featuring of Don Rafael Cepeda Atiles, Jesús Cepeda, and Petra Cepeda—all historically important figures in bomba and members of the legendary Familia Cepeda. It was reproduced at the Dr. Phillips Center in Kissimmee, Florida on February 14th, 2026 at 5pm and 7pm for an audience of around 200 attendees. It was funded in part by the New England Foundation for the Arts and with an Orlando Tourism grant. The restaged version was directed by Barbara Liz Ortiz Sanchez of La Escuela de Bomba y Plena Tata Cepeda. "
         }
       ]
     },
@@ -36,7 +37,24 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Resistimos (2021) – Directed by Diana Quiñones Rivera as her MFA thesis in Media and Film and Media Studies at CUNY Hunter College, this documentary explores the socioeconomic and sociopolitical concerns voiced by bomba practitioners, especially in the wake of Hurricane "
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Resistimos (2021) ",
+          "textSize": "heading-two"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Directed by Diana Quiñones Rivera as her MFA thesis in Media and Film and Media Studies at CUNY Hunter College, this documentary explores the socioeconomic and sociopolitical concerns voiced by bomba practitioners, especially in the wake of Hurricane "
         }
       ]
     },
@@ -52,7 +70,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "One of the film’s most subtle and compelling features is its use of diegetic avant‑garde piano and saxophone melodies to transition between frames and thematic sections. These musical transitions often accompany ecological imagery—such as ocean scenes—or visuals of urban life in Río Piedras, Bayamón, and Mayagüez. "
+          "text": "One of the film’s most subtle and compelling features is its use of diegetic avant‑garde piano and saxophone melodies to transition between frames and thematic sections. These musical transitions often accompany ecological imagery—such as ocean scenes—or visuals of urban life in Río Piedras, Bayamón, and Mayagüez. The film primarily centers on Marien Torres, director of Taller Tambuyé. In the final frame, Rivera returns to Marien’s earlier story about her chickens surviving the hurricane: the film closes with images of baby chicks and hens, offering a message of renewal, hope, strength, and survival. "
         }
       ]
     },
@@ -68,7 +86,8 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "The film primarily centers on Marien Torres, director of Taller Tambuyé. In the final frame, Rivera returns to Marien’s earlier story about her chickens surviving the hurricane: the film closes with images of baby chicks and hens, offering a message of renewal, hope, strength, and survival. "
+          "text": "Raíces (2001)",
+          "textSize": "heading-two"
         }
       ]
     },
@@ -76,15 +95,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": " "
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "Raíces (2001) – Directed by Paloma Suau, this Banco Popular special showcases Puerto Rican popular music across genres, including bomba, plena, reggae, hip-hop, salsa, and more. It includes cantos de bomba such as “Cachón dice Elena,” \"Mamá, cuídame a Belén,\" “Estoy Buscando un Árbol,” and \"Cuando Diego.\"  "
+          "text": "Directed by Paloma Suau, this Banco Popular special showcases Puerto Rican popular music across genres, including bomba, plena, reggae, hip-hop, salsa, and more. It includes cantos de bomba such as “Cachón dice Elena,” \"Mamá, cuídame a Belén,\" “Estoy Buscando un Árbol,” and \"Cuando Diego.\"  "
         }
       ]
     },
@@ -121,6 +132,6 @@
   "slug": "bomba-en-cine",
   "created_at": "2026-09-02T18:11:27.615Z",
   "created_by": "ethnomusicologypr",
-  "updated_at": "2026-09-02T18:11:27.615Z",
+  "updated_at": "2026-09-02T20:23:18.394Z",
   "updated_by": "ethnomusicologypr"
 }
