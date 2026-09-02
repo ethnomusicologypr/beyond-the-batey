@@ -348,7 +348,16 @@
           "text": "\nSoy tierra \nSoy aire \nSoy agua \nSoy fuego\nCuando entro al batey yo me libero"
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "genre",
+          "tag": "bomba"
+        },
+        {
+          "category": "themes",
+          "tag": "nature"
+        }
+      ],
       "uuid": "2230f585-9891-49cf-b415-07e804df4583"
     },
     {
