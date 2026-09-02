@@ -393,7 +393,20 @@
           "text": "The two dancers performing \"Petronila Guilbe\" are Rafael \"Chino\" Cepeda and Brenda Cepeda, both members of the Cepeda family. Chino Cepeda and Mario Cepeda are direct descendants of the renowned Modesto Cepeda. Following Modesto Cepeda's passing in July 2026, this song holds renewed significance for his family. \n"
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "genre",
+          "tag": "bomba"
+        },
+        {
+          "category": "themes",
+          "tag": "women"
+        },
+        {
+          "category": "delegations",
+          "tag": "Cangrejos"
+        }
+      ],
       "uuid": "96a59b81-2658-4947-845b-7de1898ae57a"
     },
     {
