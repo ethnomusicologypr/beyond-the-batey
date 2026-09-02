@@ -1611,7 +1611,16 @@
           "text": "\nSiempre recordamos que la importancia del amor es mutua\nQue la libertad también es mutua\nY que también hay amor para todas para todos y para todas\nSiempre y cuando sea así\nYo no vengo a comer cuento tengo voz tengo derecho\nVengo a pelear por lo que quiero\nIgualdad libertad y respeto\nYo no vengo a comer cuento tengo voz tengo derecho\nVengo a pelear por lo que quiero\nIgualdad libertad y respeto\nQue ya no somos las sumisas\nHoy grito a los cuatro vientos\nTengo voz tengo derecho\nIgualdad libertad y respeto\nYo no vengo a comer cuento tengo voz tengo derecho\nVengo a pelear por lo que quiero\nIgualdad libertad y respeto\nY ya no hay tiempo de parlamento\nNi pensar en remordimiento\nSe levanta un movimiento\nAl gobierno no me someto \nYo no vengo a comer cuento tengo voz tengo derecho\nVengo a pelear por lo que quiero\nIgualdad libertad y respeto \n"
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "genre",
+          "tag": "bomba"
+        },
+        {
+          "category": "themes",
+          "tag": "freedom"
+        }
+      ],
       "uuid": "d977819d-b3ea-48a9-b997-f3d2e0ae81f8"
     },
     {
