@@ -1245,7 +1245,12 @@
           "text": "\nAy báilame esa bomba\nAy hasta la madrugá\nRepícame la bomba\nAy al golpe calidad\nAy dame dame golpe\nRepícame eso ya\nRepícame la bomba\nRepícamelo los cuas \nRepícame la bomba\nRepícame las cuas\nSí dale dale golpe\nHasta la madrugá\nAy dame dame bomba\nHasta la madrugá’\nRepícame la bomba\nAy repícamela ya\nMamá cuídame a Belén\nCuídame a Belén mamá\nSí dale dale golpe\nAy golpe de calidad\nRepícame la bomba\nAy hasta la madrugá\nSí dale dale golpe\nAy golpe del puñal"
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "genre",
+          "tag": "bomba"
+        }
+      ],
       "uuid": "dd56c4d7-6093-4022-a63b-5a4770042ef7"
     },
     {
