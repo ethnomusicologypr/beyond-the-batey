@@ -4,11 +4,12 @@
   "created_by": "ethnomusicologypr",
   "title": "EDT 2024",
   "slug": "edt-2024",
-  "updated_at": "2026-09-02T18:19:26.540Z",
+  "updated_at": "2026-09-02T18:20:53.243Z",
   "updated_by": "ethnomusicologypr",
   "autogenerate": {
     "enabled": true,
     "type": "event",
     "type_id": "1f9e07ad-92df-4635-9ccf-6f42af03095b"
-  }
+  },
+  "parent": "d203051a-8952-4fb7-a7d7-2fcf4d6ec37b"
 }
