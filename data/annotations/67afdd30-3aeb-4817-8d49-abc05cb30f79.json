@@ -802,7 +802,16 @@
           "text": "Eh, me llamó"
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "delegations",
+          "tag": "oeste"
+        },
+        {
+          "category": "genre",
+          "tag": "bomba"
+        }
+      ],
       "uuid": "ee47c9c4-9fc1-4fac-94a2-558eb371c343"
     },
     {
