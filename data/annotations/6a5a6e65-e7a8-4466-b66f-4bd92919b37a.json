@@ -215,7 +215,20 @@
           "text": "\nCuando baila la negrita los rayos danzan\nCuando baila la alegrita al viento se mojó\nLa negrita baila bomba inspiró amor\nSe encendió en el corazón "
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "genre",
+          "tag": "bomba"
+        },
+        {
+          "category": "themes",
+          "tag": "women"
+        },
+        {
+          "category": "themes",
+          "tag": "blackness"
+        }
+      ],
       "uuid": "d4be22b1-fdd5-4155-9a43-f7aace62bb6e"
     },
     {
