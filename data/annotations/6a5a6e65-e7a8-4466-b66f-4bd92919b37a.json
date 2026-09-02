@@ -1083,7 +1083,16 @@
           "text": "Yo soy del Oeste como la fuerza del sol\nSobre el mar Caribe repica mi corazón  \nSiempre me ha regalado los besos del sol y el mar\nLa pulpa de guayaba y la flor del camboy\nYo soy del Oeste como la puesta del sol\nSobre el mar Caribe repica mi corazón \nYo soy del Oeste como la puesta del sol\nSobre el mar Caribe repica mi corazón"
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "genre",
+          "tag": "bomba"
+        },
+        {
+          "category": "delegations",
+          "tag": "oeste"
+        }
+      ],
       "uuid": "47fecbc4-2294-43dd-9c16-da3094759312"
     },
     {
