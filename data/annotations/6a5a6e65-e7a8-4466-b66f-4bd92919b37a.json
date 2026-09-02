@@ -995,7 +995,16 @@
           "text": "\nDe la tierra y los ancestros\nQue todo el mundo baila\n\nAcompáñame a estar contigo a estar contigo\n"
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "genre",
+          "tag": "bomba"
+        },
+        {
+          "category": "themes",
+          "tag": "nature"
+        }
+      ],
       "uuid": "747b07c5-dba8-45fb-853a-787be52c70f9"
     },
     {
