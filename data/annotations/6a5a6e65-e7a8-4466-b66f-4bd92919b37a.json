@@ -94,7 +94,16 @@
           "text": "\nSeguiremos tocando bomba por todo el mundo y sus rincones\nCon los barriles con maracas\nCon alegría y con mil amores "
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "genre",
+          "tag": "bomba"
+        },
+        {
+          "category": "themes",
+          "tag": "nature"
+        }
+      ],
       "uuid": "86409208-040d-4342-987e-8f2df1c9acb1"
     },
     {
