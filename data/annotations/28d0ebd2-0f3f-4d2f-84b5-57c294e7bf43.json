@@ -394,7 +394,20 @@
           "text": "Coro Final "
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "genre",
+          "tag": "bomba"
+        },
+        {
+          "category": "delegations",
+          "tag": "oeste"
+        },
+        {
+          "category": "themes",
+          "tag": "nature"
+        }
+      ],
       "uuid": "f55a5b27-ec5d-4a5c-974b-1298eccb6fcf"
     },
     {
