@@ -12,7 +12,16 @@
           "text": "Esta melodía tradicional abre la película y luego pasa a una adaptación en salsa que señala una fusión musical. Las imágenes que acompañan la película muestran lo siguiente: practicantes de bomba o bomberos tocando los barriles y bailando, una casita tradicional, un árbol creciendo y sus raíces y semillas fertilizando la tierra."
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "genre",
+          "tag": "bomba"
+        },
+        {
+          "category": "themes",
+          "tag": "violence"
+        }
+      ],
       "uuid": "bdebae3c-6df3-4a17-a9da-4e0c837b366f"
     },
     {
