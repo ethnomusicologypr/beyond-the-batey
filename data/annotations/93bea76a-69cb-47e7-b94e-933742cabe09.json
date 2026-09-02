@@ -942,7 +942,16 @@
           "text": " Interpretada por la Delegación de las Carolinas"
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "genre",
+          "tag": "bomba"
+        },
+        {
+          "category": "delegations",
+          "tag": "Carolinas"
+        }
+      ],
       "uuid": "1d06b8f0-9a68-48a1-afb6-6a2dedaecd19"
     },
     {
