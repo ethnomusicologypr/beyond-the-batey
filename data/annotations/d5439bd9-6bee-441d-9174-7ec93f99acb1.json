@@ -1276,7 +1276,16 @@
           "text": "La vida creciende"
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "genre",
+          "tag": "bomba"
+        },
+        {
+          "category": "themes",
+          "tag": "nature"
+        }
+      ],
       "uuid": "d23f7acf-6ba9-4bbd-bb22-6d0f382293bb"
     },
     {
