@@ -518,7 +518,20 @@
           "text": "La Borucana, guemba, guemba "
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "genre",
+          "tag": "bomba"
+        },
+        {
+          "category": "delegations",
+          "tag": "Cangrejos"
+        },
+        {
+          "category": "themes",
+          "tag": "nature"
+        }
+      ],
       "uuid": "e174b1a0-9035-4155-87d1-9515e2942866"
     }
   ],
