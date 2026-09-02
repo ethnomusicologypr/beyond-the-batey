@@ -83,11 +83,29 @@
       ]
     },
     {
+      "type": "image",
+      "url": "https://d1y502jg6fpugt.cloudfront.net/111841/archive/files/70584da4bb4b427acb026f7c6802cec3.tif?Expires=1788998400&Signature=A6afKDumDyUdujsvnh9pcKEzfbIGprOP%7EPq%7EtL9eKuTmMK9Fkybvudo6drqalEB%7EUDCNO3YiyHNHovO3s2cmzVeSwHspa9R7za3tImCU5oOWC9W8YZqIyVtQ7yrWsvciBaDCdhra9wtWPEeszgulEzs1y-IbC59R4vCah-QDrusQwOMyi6ZK67gpHnjURYOFIJIMrLhFg6MT8CGzUM52vsWAqat8LPWMPPiJAJ3c5dMVeugCVonFj2Y0jvFYZEcV6giJj1EkmRJiRn0Fvjz%7Ez62fpJsge4uUHD4HfgkBZQ2O8pMbcBbEu6TQEBR%7EyPdCD%7EYseeN5-AJlmwBtl%7EDU-Q__&Key-Pair-Id=K6UGZS9ZTDSZM",
+      "caption": "Backstage of Raices",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
       "type": "paragraph",
       "children": [
         {
-          "text": "Raíces (2001)",
-          "textSize": "heading-two"
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "textSize": "heading-two",
+          "text": "Raíces (2001)"
         }
       ]
     },
@@ -132,6 +150,6 @@
   "slug": "bomba-en-cine",
   "created_at": "2026-09-02T18:11:27.615Z",
   "created_by": "ethnomusicologypr",
-  "updated_at": "2026-09-02T20:23:18.394Z",
+  "updated_at": "2026-09-02T20:25:01.712Z",
   "updated_by": "ethnomusicologypr"
 }
