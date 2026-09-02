@@ -1,0 +1,33 @@
+{
+  "audiovisual_files": {
+    "2c0ad10c-2949-4aec-8a35-50506ade2586": {
+      "label": "Raices",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://www.youtube.com/watch?v=7wCnrrN9Gak",
+      "duration": 0,
+      "caption_set": [],
+      "set_sort": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "label": "Raices",
+  "av_file_order": [
+    "2c0ad10c-2949-4aec-8a35-50506ade2586"
+  ],
+  "created_at": "2026-09-02T18:57:36.971Z",
+  "created_by": "ethnomusicologypr",
+  "updated_at": "2026-09-02T18:57:36.971Z",
+  "updated_by": "ethnomusicologypr"
+}
