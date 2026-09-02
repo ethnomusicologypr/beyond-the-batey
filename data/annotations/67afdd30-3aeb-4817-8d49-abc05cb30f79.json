@@ -255,7 +255,12 @@
           "text": "que ataca a José!"
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "genre",
+          "tag": "salsa"
+        }
+      ],
       "uuid": "6489fba3-5a33-47f4-bfb7-735af387c894"
     },
     {
