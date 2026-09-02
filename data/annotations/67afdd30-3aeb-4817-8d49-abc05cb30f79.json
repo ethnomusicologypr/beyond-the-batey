@@ -78,7 +78,12 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "genre",
+          "tag": "salsa"
+        }
+      ],
       "uuid": "df731b86-c731-4ecb-897c-88b857038f49"
     },
     {
