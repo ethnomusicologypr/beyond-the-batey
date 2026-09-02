@@ -1085,7 +1085,12 @@
           "text": "\nTanta vanidad (tanta vanidad)\nTanta hipocresía\nSi tu cuerpo después de muerto\nPertenece a la tumba fría\nTanta vanidad (tanta vanidad)\nTanta hipocresía\nSi tu cuerpo después de muerto\nPertenece a la tumba fría"
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "genre",
+          "tag": "plena"
+        }
+      ],
       "uuid": "66cc4c35-e700-45af-96f7-63a9efb61e22"
     },
     {
