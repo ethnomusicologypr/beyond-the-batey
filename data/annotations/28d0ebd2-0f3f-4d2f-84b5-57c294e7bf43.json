@@ -705,6 +705,72 @@
         }
       ],
       "uuid": "ebab1435-0702-4e49-8fa4-7b54fbf28796"
+    },
+    {
+      "start_time": 4800,
+      "end_time": 5400,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Delegación del Norte",
+              "textSize": "heading-one"
+            }
+          ],
+          "align": "center"
+        },
+        {
+          "type": "paragraph",
+          "align": "left",
+          "children": [
+            {
+              "text": "\"Tanta Indecencia\" - Guillermo Mundo"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "left",
+          "children": [
+            {
+              "text": "\"Libertad o Muerte\" - Cindy Cruzar "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "left",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "genre",
+          "tag": "bomba"
+        },
+        {
+          "category": "delegations",
+          "tag": "norte"
+        },
+        {
+          "category": "themes",
+          "tag": "corruption"
+        },
+        {
+          "category": "themes",
+          "tag": "freedom"
+        },
+        {
+          "category": "themes",
+          "tag": "cimarons"
+        }
+      ],
+      "uuid": "8c5c52ed-c9b7-4e2a-80e8-0233cf689cd9"
     }
   ],
   "set": "Default",
