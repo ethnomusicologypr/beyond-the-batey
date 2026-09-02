@@ -694,7 +694,16 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "genre",
+          "tag": "bomba fusion"
+        },
+        {
+          "category": "delegations",
+          "tag": "Carolinas"
+        }
+      ],
       "uuid": "ebab1435-0702-4e49-8fa4-7b54fbf28796"
     }
   ],
