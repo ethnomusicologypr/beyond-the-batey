@@ -4,11 +4,12 @@
   "created_by": "ethnomusicologypr",
   "title": "Raices",
   "slug": "raices",
-  "updated_at": "2026-09-02T18:57:37.671Z",
+  "updated_at": "2026-09-02T19:07:40.920Z",
   "updated_by": "ethnomusicologypr",
   "autogenerate": {
     "enabled": true,
     "type": "event",
     "type_id": "fce4a0ee-5131-4968-a47a-3d0d7386f73e"
-  }
+  },
+  "parent": "249e6411-5c30-4739-8fdc-7b674cf54d93"
 }
