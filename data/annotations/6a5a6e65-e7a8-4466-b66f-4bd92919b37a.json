@@ -1264,7 +1264,12 @@
           "text": "\nNunca linda que en el bate baila\nAhora que ahora fue gózate la bomba goza\nSi no sabes quién te canta\nGózate la bomba que si no sabes quién te canta es Toa Coro\nGoza gózate la bomba goza\nGózate la bomba goza\nGózate la bomba goza\nA la hora que ahora fue gózate la bomba goza \nQue baile gózate la bomba goza\nCon Loíza y la cantadora\nGo la bomba goza\nAy goza goza goza goza\nGózate la bomba goza\nGózate la bomba goza "
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "genre",
+          "tag": "bomba"
+        }
+      ],
       "uuid": "92336e22-c549-433a-ae6d-65bd11d150d6"
     },
     {
