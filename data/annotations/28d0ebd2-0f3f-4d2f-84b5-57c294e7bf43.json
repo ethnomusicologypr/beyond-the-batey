@@ -725,7 +725,8 @@
           "align": "left",
           "children": [
             {
-              "text": "\"Tanta Indecencia\" - Guillermo Mundo"
+              "text": "\"Tanta Indecencia\" - Guillermo Mundo",
+              "textSize": "heading-two"
             }
           ]
         },
@@ -734,7 +735,62 @@
           "align": "left",
           "children": [
             {
-              "text": "\"Libertad o Muerte\" - Cindy Cruzar "
+              "text": "Coro",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "left",
+          "children": [
+            {
+              "text": "Yo no pedí venir aquí,"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "left",
+          "children": [
+            {
+              "text": " yo no pedí vivir aquí,"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "left",
+          "children": [
+            {
+              "text": " yo no pedí, óyeme bien,"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "left",
+          "children": [
+            {
+              "text": " tanta indecencia,"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "left",
+          "children": [
+            {
+              "text": " tanta indecencia,"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "left",
+          "children": [
+            {
+              "text": " tanta indecencia."
             }
           ]
         },
@@ -744,6 +800,690 @@
           "children": [
             {
               "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "left",
+          "children": [
+            {
+              "text": "Yo no pedí, óyeme bien,"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "left",
+          "children": [
+            {
+              "text": " tanta indecencia."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "left",
+          "children": [
+            {
+              "text": "Verso",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "left",
+          "children": [
+            {
+              "text": "Me sacaron de mi tierra,"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "left",
+          "children": [
+            {
+              "text": " en cadenas me llevaron."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "left",
+          "children": [
+            {
+              "text": " Ni a mi hermana o mi hermano"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "left",
+          "children": [
+            {
+              "text": " pude volver a ver."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "left",
+          "children": [
+            {
+              "text": "A latigazos me humillaron"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "left",
+          "children": [
+            {
+              "text": " y mi piel ellos marcaron."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "left",
+          "children": [
+            {
+              "text": " Solo a la caña le cantaba"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "left",
+          "children": [
+            {
+              "text": " mi querer."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "left",
+          "children": [
+            {
+              "text": "Coro",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "left",
+          "children": [
+            {
+              "text": "Yo no pedí venir aquí,"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "left",
+          "children": [
+            {
+              "text": " yo no pedí vivir aquí,"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "left",
+          "children": [
+            {
+              "text": " yo no pedí, óyeme bien,"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "left",
+          "children": [
+            {
+              "text": " tanta indecencia,"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "left",
+          "children": [
+            {
+              "text": " tanta indecencia,"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "left",
+          "children": [
+            {
+              "text": " tanta indecencia."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "left",
+          "children": [
+            {
+              "text": "Versos",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "left",
+          "children": [
+            {
+              "text": "Me quitaron mi esencia,"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "left",
+          "children": [
+            {
+              "text": " mi nombre me cambiaron,"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "left",
+          "children": [
+            {
+              "text": " y otro dios me presentaron."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "left",
+          "children": [
+            {
+              "text": "Y atrás dejé, en mi memoria,"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "left",
+          "children": [
+            {
+              "text": " toda mi historia."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "left",
+          "children": [
+            {
+              "text": " Fui libre una vez"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "left",
+          "children": [
+            {
+              "text": " y lo seré."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "left",
+          "children": [
+            {
+              "text": "Coro",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "left",
+          "children": [
+            {
+              "text": "Yo no pedí venir aquí,"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "left",
+          "children": [
+            {
+              "text": " yo no pedí vivir aquí,"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "left",
+          "children": [
+            {
+              "text": " yo no pedí, óyeme bien,"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "left",
+          "children": [
+            {
+              "text": " tanta indecencia,"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "left",
+          "children": [
+            {
+              "text": " tanta indecencia,"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "left",
+          "children": [
+            {
+              "text": " tanta indecencia."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "left",
+          "children": [
+            {
+              "text": "Verso",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "left",
+          "children": [
+            {
+              "text": "El mayoral me castigaba,"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "left",
+          "children": [
+            {
+              "text": " sangre y sudor me costaba,"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "left",
+          "children": [
+            {
+              "text": " pero mi alma siempre libre"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "left",
+          "children": [
+            {
+              "text": " quiso ser."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "left",
+          "children": [
+            {
+              "text": "La dignidad y el coraje"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "left",
+          "children": [
+            {
+              "text": " hacia donde me llevaron."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "left",
+          "children": [
+            {
+              "text": " Era la muerte o la libertad"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "left",
+          "children": [
+            {
+              "text": " de mi ser."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "left",
+          "children": [
+            {
+              "text": "Coro",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "left",
+          "children": [
+            {
+              "text": "Yo no pedí venir aquí,"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "left",
+          "children": [
+            {
+              "text": " yo no pedí vivir aquí,"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "left",
+          "children": [
+            {
+              "text": " yo no pedí, óyeme bien,"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "left",
+          "children": [
+            {
+              "text": " tanta indecencia,"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "left",
+          "children": [
+            {
+              "text": " tanta indecencia,"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "left",
+          "children": [
+            {
+              "text": " tanta indecencia."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "left",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "left",
+          "children": [
+            {
+              "text": "\"Libertad o Muerte\" - Cindy Cruzar ",
+              "textSize": "heading-two"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "left",
+          "children": [
+            {
+              "text": "Coro",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "left",
+          "children": [
+            {
+              "text": "Estamos en pie de lucha,"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "left",
+          "children": [
+            {
+              "text": " yo soy cimarrón."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "left",
+          "children": [
+            {
+              "text": " Libertad o muerte,"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "left",
+          "children": [
+            {
+              "text": " yo soy cimarrón."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "left",
+          "children": [
+            {
+              "text": "Versos",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "left",
+          "children": [
+            {
+              "text": "He quitado las cadenas,"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "left",
+          "children": [
+            {
+              "text": " ya he burlado al mayoral."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "left",
+          "children": [
+            {
+              "text": " Seguiremos en batalla"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "left",
+          "children": [
+            {
+              "text": " hasta obtener la libertad."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "left",
+          "children": [
+            {
+              "text": "Hoy estamos en batalla,"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "left",
+          "children": [
+            {
+              "text": " libertad o muerte."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "left",
+          "children": [
+            {
+              "text": "¡Despierta, borinqueño!"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "left",
+          "children": [
+            {
+              "text": " Te han dado la señal."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "left",
+          "children": [
+            {
+              "text": " Despierta de ese sueño,"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "left",
+          "children": [
+            {
+              "text": " que es momento de luchar."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "left",
+          "children": [
+            {
+              "text": "Por Puerto Rico,"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "left",
+          "children": [
+            {
+              "text": " por mí, por mi familia,"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "left",
+          "children": [
+            {
+              "text": " por las playas,"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "left",
+          "children": [
+            {
+              "text": " por la educación."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "left",
+          "children": [
+            {
+              "text": "¡Despierta, borinqueño!"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "left",
+          "children": [
+            {
+              "text": " Te han dado la señal."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "left",
+          "children": [
+            {
+              "text": " Despierta de ese sueño,"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "align": "left",
+          "children": [
+            {
+              "text": " es hora de luchar."
             }
           ]
         }
