@@ -1014,7 +1014,12 @@
           "text": "Pero la plena viene de Ponce desde el barrio de San Antón. Pero la plena viene de Ponce desde el barrio de San Antón."
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "genre",
+          "tag": "plena"
+        }
+      ],
       "uuid": "a9314362-ac4f-4901-bc9b-6a090c6f8473"
     },
     {
