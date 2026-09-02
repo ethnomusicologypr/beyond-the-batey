@@ -4,11 +4,12 @@
   "created_by": "ethnomusicologypr",
   "title": "EDC 2025",
   "slug": "edc-2025",
-  "updated_at": "2026-09-02T20:04:18.336Z",
+  "updated_at": "2026-09-02T20:07:29.714Z",
   "updated_by": "ethnomusicologypr",
   "autogenerate": {
     "enabled": true,
     "type": "event",
     "type_id": "ace93be9-d659-4942-9c08-92ec1e5c1c6b"
-  }
+  },
+  "parent": "02e16341-1b72-4791-80e6-97ec095ae418"
 }
