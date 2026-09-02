@@ -147,7 +147,20 @@
           "text": "Catalina la reina, cuembé"
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "genre",
+          "tag": "bomba"
+        },
+        {
+          "category": "delegations",
+          "tag": "Cangrejos"
+        },
+        {
+          "category": "themes",
+          "tag": "women"
+        }
+      ],
       "uuid": "39234bdd-e156-43c5-a90b-53aa254fbe47"
     },
     {
