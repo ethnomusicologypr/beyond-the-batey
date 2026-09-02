@@ -4,11 +4,12 @@
   "created_by": "ethnomusicologypr",
   "title": "EDC 2024",
   "slug": "edc-2024",
-  "updated_at": "2026-09-02T19:12:49.765Z",
+  "updated_at": "2026-09-02T19:17:44.926Z",
   "updated_by": "ethnomusicologypr",
   "autogenerate": {
     "enabled": true,
     "type": "event",
     "type_id": "0b4febeb-6bf7-4cc9-ae5c-6170417c196a"
-  }
+  },
+  "parent": "02e16341-1b72-4791-80e6-97ec095ae418"
 }
