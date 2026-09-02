@@ -1,1 +1,498 @@
-{"annotations":[{"start_time":1380,"end_time":0,"annotation":[{"type":"paragraph","children":[{"text":"The Delegación de Cangrejos, directed by Caridad Sánchez-Martínez, presents a poetic tribute to the Puerto Rican composer and salsero Catalino \"Tite\" Curet Alonso . They then present the following cantos de bomba. \"Cunya de la Perona,\" \"Plena María,\" \"Miserere,\" \"Petronila Guillé,\" \"Mi Barriles,\" and \"La Borucana\"."}]}],"tags":[],"uuid":"529490df-72a5-44bc-91e7-00ae86f48ed0"},{"start_time":1654,"end_time":1680,"annotation":[{"text":"\"Cunya de la Peronia\""},{"type":"line-break","children":[{"text":""}]},{"type":"line-break","children":[{"text":""}]},{"text":"Coro","bold":true},{"type":"line-break","children":[{"text":""}]},{"text":"Cunya de la peronia, cunya, de la peronia cunya "},{"type":"line-break","children":[{"text":""}]},{"text":"Versos","bold":true}],"tags":[],"uuid":"a25cc73c-321c-47de-936b-423ceff7100d"},{"start_time":1673,"end_time":1700,"annotation":[{"text":"\n\"Plere María, plere\"\n"},{"type":"line-break","children":[{"text":""}]},{"text":"Coro","bold":true},{"type":"line-break","children":[{"text":""}]},{"text":"Plere María, plere"},{"type":"line-break","children":[{"text":""}]},{"text":"Plere María, plere"},{"type":"line-break","children":[{"text":""}]},{"text":"Plere María, plere"},{"type":"line-break","children":[{"text":""}]},{"text":"Catalina la reina, cuembé"}],"tags":[],"uuid":"39234bdd-e156-43c5-a90b-53aa254fbe47"},{"start_time":1710,"end_time":1740,"annotation":[{"text":"Misere Congo Misie performed by the Delegación de los Cangrejos"},{"type":"line-break","children":[{"text":""}]},{"type":"line-break","children":[{"text":""}]},{"text":"Coro","bold":true},{"text":"\nMiserere, Congo, misié\nMiserere, Congo, misié"},{"type":"line-break","children":[{"text":""}]},{"text":"Verso","bold":true},{"text":"\nMiserere, Congo, misié\nMiserere, Congo, misié\n¿Dónde está mi congo, conguito?\n¿Dónde está mi congo, laré?"}],"tags":[],"uuid":"505f2c4e-991f-4a78-a7b3-467f5a38189a"},{"start_time":1733,"end_time":1870,"annotation":[{"text":"\"Petronila Guilbe\" - Rafael Cepeda Atiles, performed by the Delegación de los Cangrejos (yubá)"},{"type":"line-break","children":[{"text":""}]},{"text":"\n"},{"text":"Coro","bold":true},{"type":"line-break","children":[{"text":""}]},{"text":"Petronila Guilbe yo no declaré"},{"type":"line-break","children":[{"text":""}]},{"text":"Petronila Guilbe yo no declaré"},{"type":"line-break","children":[{"text":""}]},{"text":"Verso(s)","bold":true},{"type":"line-break","children":[{"text":""}]},{"text":"Y yo la vi en el suelo y no declaré"},{"type":"line-break","children":[{"text":""}]},{"text":"Petronila Guilbe yo no declaré"},{"type":"line-break","children":[{"text":""}]},{"text":"Ay que Petronila llama a Rafael"},{"type":"line-break","children":[{"text":""}]},{"text":"Petronila Guilbe yo no declaré"},{"type":"line-break","children":[{"text":""}]},{"text":"Ay que Petronila Guilbe yo no declaré"},{"type":"line-break","children":[{"text":""}]},{"text":"Petronila Guilbe yo no declaré"},{"type":"line-break","children":[{"text":""}]},{"text":"Yo la vi en el suelo y no declaré "},{"type":"line-break","children":[{"text":""}]},{"text":"Ay, Petronila Guilbe yo no declaré"},{"type":"line-break","children":[{"text":""}]},{"text":"Petronila Guilbe yo no declaré"},{"type":"line-break","children":[{"text":""}]},{"text":"\n"},{"text":"Significance"},{"type":"line-break","children":[{"text":""}]},{"text":"The two dancers performing \"Petronila Guilbe\" are Rafael \"Chino\" Cepeda and Brenda Cepeda, both members of the Cepeda family. Chino Cepeda and Mario Cepeda are direct descendants of the renowned Modesto Cepeda. Following Modesto Cepeda's passing in July 2026, this song holds renewed significance for his family. \n"}],"tags":[],"uuid":"96a59b81-2658-4947-845b-7de1898ae57a"},{"start_time":1870,"end_time":1920,"annotation":[{"text":"\"Mis Barriles\" performed by the Delegación de las Cangrejos"},{"type":"line-break","children":[{"text":""}]},{"type":"line-break","children":[{"text":""}]},{"text":"Coro","bold":true},{"text":"\n¡Ah, eh, mis barriles!\n¡Ah, eh, mis barriles!"},{"type":"line-break","children":[{"text":""}]},{"text":"Verso(s)","bold":true},{"text":"\nSuéname la bomba.\nAy, repícame la bomba, repícame los pies.\nAy, repícame la bomba de San Juan y Mayagüez.\nDe doña Caridad y Rafael Atiles.\n¡Ah, eh, ah, eh, mis barriles!\nAy, repícame la bomba, repícame [inaudible].\n¡Habla, como eh!"}],"tags":[],"uuid":"1ee8f56d-ad4c-4a55-a35c-802cfb47d371"},{"start_time":1980,"end_time":2100,"annotation":[{"text":"\"La Boru cana\" performed by the Delegación de los Cangrejos with Tata Cepeda leading"},{"type":"line-break","children":[{"text":""}]},{"type":"line-break","children":[{"text":""}]},{"text":"Coro "},{"type":"line-break","children":[{"text":""}]},{"text":"Guemba, guemba "},{"type":"line-break","children":[{"text":""}]},{"text":"Verso(s) "},{"type":"line-break","children":[{"text":""}]},{"text":"La Borucana, guemba, guemba "}],"tags":[],"uuid":"e174b1a0-9035-4155-87d1-9515e2942866"}],"set":"Default","event_id":"b8650aea-a2a3-4495-9f44-460988658c75","source_id":"cbb2d58c-c7ec-47a0-88e4-9dc5dcd36a4b"}
+{
+  "annotations": [
+    {
+      "start_time": 1380,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Delegación de Cangrejos, directed by Caridad Sánchez-Martínez, presents a poetic tribute to the Puerto Rican composer and salsero Catalino \"Tite\" Curet Alonso . They then present the following cantos de bomba. \"Cunya de la Perona,\" \"Plena María,\" \"Miserere,\" \"Petronila Guillé,\" \"Mi Barriles,\" and \"La Borucana\"."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "529490df-72a5-44bc-91e7-00ae86f48ed0"
+    },
+    {
+      "start_time": 1654,
+      "end_time": 1680,
+      "annotation": [
+        {
+          "text": "\"Cunya de la Peronia\""
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Coro",
+          "bold": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Cunya de la peronia, cunya, de la peronia cunya "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Versos",
+          "bold": true
+        }
+      ],
+      "tags": [
+        {
+          "category": "delegations",
+          "tag": "Cangrejos"
+        },
+        {
+          "category": "genre",
+          "tag": "bomba"
+        }
+      ],
+      "uuid": "a25cc73c-321c-47de-936b-423ceff7100d"
+    },
+    {
+      "start_time": 1673,
+      "end_time": 1700,
+      "annotation": [
+        {
+          "text": "\n\"Plere María, plere\"\n"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Coro",
+          "bold": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Plere María, plere"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Plere María, plere"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Plere María, plere"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Catalina la reina, cuembé"
+        }
+      ],
+      "tags": [],
+      "uuid": "39234bdd-e156-43c5-a90b-53aa254fbe47"
+    },
+    {
+      "start_time": 1710,
+      "end_time": 1740,
+      "annotation": [
+        {
+          "text": "Misere Congo Misie performed by the Delegación de los Cangrejos"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Coro",
+          "bold": true
+        },
+        {
+          "text": "\nMiserere, Congo, misié\nMiserere, Congo, misié"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Verso",
+          "bold": true
+        },
+        {
+          "text": "\nMiserere, Congo, misié\nMiserere, Congo, misié\n¿Dónde está mi congo, conguito?\n¿Dónde está mi congo, laré?"
+        }
+      ],
+      "tags": [],
+      "uuid": "505f2c4e-991f-4a78-a7b3-467f5a38189a"
+    },
+    {
+      "start_time": 1733,
+      "end_time": 1870,
+      "annotation": [
+        {
+          "text": "\"Petronila Guilbe\" - Rafael Cepeda Atiles, performed by the Delegación de los Cangrejos (yubá)"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "\n"
+        },
+        {
+          "text": "Coro",
+          "bold": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Petronila Guilbe yo no declaré"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Petronila Guilbe yo no declaré"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Verso(s)",
+          "bold": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Y yo la vi en el suelo y no declaré"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Petronila Guilbe yo no declaré"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Ay que Petronila llama a Rafael"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Petronila Guilbe yo no declaré"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Ay que Petronila Guilbe yo no declaré"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Petronila Guilbe yo no declaré"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Yo la vi en el suelo y no declaré "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Ay, Petronila Guilbe yo no declaré"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Petronila Guilbe yo no declaré"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "\n"
+        },
+        {
+          "text": "Significance"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "The two dancers performing \"Petronila Guilbe\" are Rafael \"Chino\" Cepeda and Brenda Cepeda, both members of the Cepeda family. Chino Cepeda and Mario Cepeda are direct descendants of the renowned Modesto Cepeda. Following Modesto Cepeda's passing in July 2026, this song holds renewed significance for his family. \n"
+        }
+      ],
+      "tags": [],
+      "uuid": "96a59b81-2658-4947-845b-7de1898ae57a"
+    },
+    {
+      "start_time": 1870,
+      "end_time": 1920,
+      "annotation": [
+        {
+          "text": "\"Mis Barriles\" performed by the Delegación de las Cangrejos"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Coro",
+          "bold": true
+        },
+        {
+          "text": "\n¡Ah, eh, mis barriles!\n¡Ah, eh, mis barriles!"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Verso(s)",
+          "bold": true
+        },
+        {
+          "text": "\nSuéname la bomba.\nAy, repícame la bomba, repícame los pies.\nAy, repícame la bomba de San Juan y Mayagüez.\nDe doña Caridad y Rafael Atiles.\n¡Ah, eh, ah, eh, mis barriles!\nAy, repícame la bomba, repícame [inaudible].\n¡Habla, como eh!"
+        }
+      ],
+      "tags": [],
+      "uuid": "1ee8f56d-ad4c-4a55-a35c-802cfb47d371"
+    },
+    {
+      "start_time": 1980,
+      "end_time": 2100,
+      "annotation": [
+        {
+          "text": "\"La Boru cana\" performed by the Delegación de los Cangrejos with Tata Cepeda leading"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Coro "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Guemba, guemba "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Verso(s) "
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "La Borucana, guemba, guemba "
+        }
+      ],
+      "tags": [],
+      "uuid": "e174b1a0-9035-4155-87d1-9515e2942866"
+    }
+  ],
+  "set": "Default",
+  "event_id": "b8650aea-a2a3-4495-9f44-460988658c75",
+  "source_id": "cbb2d58c-c7ec-47a0-88e4-9dc5dcd36a4b"
+}
