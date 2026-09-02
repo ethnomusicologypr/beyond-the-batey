@@ -8,7 +8,24 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "\"La boru cana\" continúa.\n"
+              "text": "\"La boru cana\" composed by Don Rafael Cepeda Atiles"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Coro",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "guemba, guemba \n"
             }
           ]
         }
