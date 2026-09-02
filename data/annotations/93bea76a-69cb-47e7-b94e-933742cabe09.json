@@ -441,7 +441,12 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "themes",
+          "tag": "corruption"
+        }
+      ],
       "uuid": "452df359-57f8-4284-9aa4-84bb1c09db05"
     },
     {
