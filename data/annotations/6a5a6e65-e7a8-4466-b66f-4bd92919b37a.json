@@ -1454,7 +1454,16 @@
           "text": "Yo soy calma y paz \nHija de la grande revolucionaria\nMadre de los hombres que hicieron patria "
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "genre",
+          "tag": "bomba"
+        },
+        {
+          "category": "themes",
+          "tag": "women"
+        }
+      ],
       "uuid": "29bfa171-0166-4f38-9cc8-ebb85d950fa8"
     },
     {
