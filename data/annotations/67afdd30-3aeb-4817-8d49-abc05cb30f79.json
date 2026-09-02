@@ -604,7 +604,16 @@
           "bold": true
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "genre",
+          "tag": "bomba"
+        },
+        {
+          "category": "themes",
+          "tag": "women"
+        }
+      ],
       "uuid": "8d7e21e7-2bcc-40ae-b92b-9e8934d91f81"
     },
     {
