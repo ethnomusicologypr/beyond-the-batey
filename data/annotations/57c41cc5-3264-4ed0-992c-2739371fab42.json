@@ -1,5 +1,109 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 17,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"La boru cana\" continúa.\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "genre",
+          "tag": "bomba"
+        }
+      ],
+      "uuid": "4d73b3f9-bb74-4831-96bd-18603c0b0a72"
+    },
+    {
+      "start_time": 28,
+      "end_time": 202,
+      "annotation": [
+        {
+          "text": "\"En la hacienda Caridad\" Don Rafael Cepeda Atiles",
+          "bold": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Coro",
+          "bold": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "En la hacienda Caridad se baila bomba, en la hacienda Caridad se baila bomba de verdad"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Versos",
+          "bold": true
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "En la hacienda Caridad se baila bomba, en la hacienda Caridad se baila bomba de verdad"
+        },
+        {
+          "type": "line-break",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "En la hacienda Caridad se baila bomba, en la hacienda Caridad se baila bomba y nada má(s)"
+        }
+      ],
+      "tags": [
+        {
+          "category": "themes",
+          "tag": "plantations"
+        },
+        {
+          "category": "themes",
+          "tag": "blackness"
+        },
+        {
+          "category": "genre",
+          "tag": "bomba"
+        }
+      ],
+      "uuid": "5dcf001b-ec40-4ccc-bef0-d8b3f2f07f3c"
+    }
+  ],
   "set": "Default",
   "event_id": "d1b7804c-837d-4354-ae0b-633355f1128b",
   "source_id": "0c02c1f8-6b07-469e-8b49-163b40d38433"
