@@ -1732,7 +1732,12 @@
           "text": "Cuando Diego bailó cuanto la lluvia llegó"
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "genre",
+          "tag": "bomba"
+        }
+      ],
       "uuid": "4812e427-b19c-4045-aa7d-7bba53a2e0ea"
     },
     {
