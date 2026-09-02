@@ -1054,7 +1054,12 @@
           "text": "\nCandela  \nCandela le amo"
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "genre",
+          "tag": "bomba"
+        }
+      ],
       "uuid": "0dc6e3a2-cbae-4b5b-a85a-7fe678d78a22"
     },
     {
