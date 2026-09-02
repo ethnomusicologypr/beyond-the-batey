@@ -2586,7 +2586,12 @@
           "text": "Hasta las uñas se las lambió"
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "genre",
+          "tag": "bomba"
+        }
+      ],
       "uuid": "4c30a6de-826b-4b6d-bf84-09a334a3bc1f"
     },
     {
